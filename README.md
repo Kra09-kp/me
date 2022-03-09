@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kra09-kp
-- 👀 I’m interested in data science, machine learning, artificial intelligence.
-- 🌱 I’m currently learning python for data science
+- 👀 I’m interested in data science, machine learning, artificial intelligence,web developing.
+- 🌱 I’m currently learning python,HTML.
 - 📫 How to reach me on LinkedIn ID= " https://www.linkedin.com/in/kirti-pogra-280a48218 "
 
 <!---
